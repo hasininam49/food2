@@ -1,0 +1,58 @@
+.info{
+    background:#f3baff;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: 50%;
+}
+ 
+input
+{
+    background:grey;
+}
+
+
+.nutrition_li
+{
+  margin-top: 13px;
+}
+
+.nutrition_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.nutrition_li img
+{
+  border-radius: 25px;
+}
+
+.nutrition_li p
+{
+  margin-top:10px;
+    
+}
+
+.header_entrepreneur
+{
+  line-height: 5px;
+}
+
+.go{
+    border: double;
+    border-width: 50px;
+}
+
+.food{
+    font-family: 'Twinkle Star', cursive;
+    font-weight: 600;
+}
